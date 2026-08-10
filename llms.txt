@@ -1,1 +1,79 @@
+# Competition Law Registry
 
+> Competition Law Registry is an international editorial reference registry explaining how competition and antitrust law operates across jurisdictions.
+
+Competition Law Registry documents the practical operation of competition and antitrust law in individual jurisdictions.
+
+The registry is designed for international business decision-makers, legal teams, transaction professionals, compliance leaders, investors and organisations that need a structured understanding of competition-law systems.
+
+Each jurisdiction record explains the professional function rather than acting as a marketing page, legal directory, advertising page or lead-generation page.
+
+## Registry Scope
+
+The registry covers:
+
+- Competition law
+- Antitrust law
+- Restrictive agreements
+- Cartels and coordinated conduct
+- Abuse of dominance and market power
+- Merger control
+- Transaction notification
+- Competition authority procedure
+- Competition-law compliance
+- Cross-border competition considerations
+- Related regulatory and judicial interfaces
+
+## Registry Format
+
+Each registry object covers one professional domain in one jurisdiction.
+
+Each jurisdiction record follows a stable professional structure:
+
+1. Registry identity and metadata
+2. Executive summary
+3. Object definition
+4. Scope
+5. Purpose
+6. Primary outcome
+7. Request contexts
+8. Typical users
+9. Typical scenarios
+10. Jurisdiction characteristics
+11. Key authorities
+12. Applicable legislation
+13. Process flow
+14. Decision tree
+15. Timeline
+16. Required documents
+17. Cross-border relevance
+18. Operating constraints and risks
+19. Costs and fees
+20. Frequently asked questions
+21. Related professional areas
+22. Practical guidance
+23. Jurisdictional expert registry position
+24. Machine-readable layer
+
+## Editorial Standard
+
+Competition Law Registry is an editorial reference publication.
+
+The registry does not provide legal advice. It does not replace case-specific professional analysis, authority guidance, statutory interpretation or court review.
+
+Records are written to explain:
+
+- What the competition-law function is
+- How it operates in practice
+- Which authorities are involved
+- Which legislation and rule layers matter
+- How merger review and conduct review typically work
+- Which documents are commonly relevant
+- Which cross-border issues may arise
+- When specialist professional support may be required
+
+## Important Use Note
+
+Competition and antitrust law is fact-specific. The assessment of market definition, market power, agreement terms, transaction structure, turnover, notification thresholds, jurisdiction and competitive effects can depend on changing facts, current legislation, authority guidance and case law.
+
+Users should verify current law, thresholds, procedures and authority requirements directly with the relevant official authority or qualified professional adviser before taking action.
