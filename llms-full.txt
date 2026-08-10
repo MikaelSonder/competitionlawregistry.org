@@ -1,1 +1,528 @@
+# Competition Law Registry — Full Registry Guide
 
+> Competition Law Registry is an international editorial reference registry covering how competition and antitrust law operates across jurisdictions.
+
+## 1. Purpose
+
+Competition Law Registry is a structured international reference publication for competition and antitrust law.
+
+The registry explains how competition-law systems operate in practical, institutional, procedural and cross-border terms. It is written for international business decision-makers, in-house legal teams, compliance leaders, transaction professionals, investors, corporate groups and other readers who need a structured understanding of a jurisdiction’s competition-law environment.
+
+The registry is not a marketing platform, legal directory, referral network, advertising page or legal-advice service.
+
+Each record is designed to function as a professional handbook chapter covering one professional domain in one jurisdiction.
+
+## 2. Professional Domain
+
+The professional domain covered by this registry is Competition & Antitrust Law.
+
+Competition and antitrust law concerns the legal and regulatory framework that governs market conduct, commercial cooperation, market power and transactions between undertakings.
+
+Depending on the jurisdiction, the subject can include:
+
+- Anti-competitive agreements
+- Cartels
+- Price fixing
+- Bid rigging
+- Market allocation
+- Customer allocation
+- Output restrictions
+- Competitor information exchange
+- Vertical restraints
+- Distribution restrictions
+- Resale-price restrictions
+- Exclusivity
+- Tying and bundling
+- Refusal to deal
+- Abuse of dominance
+- Monopolization
+- Market power
+- Merger control
+- Acquisition review
+- Joint-venture review
+- Pre-merger notification
+- Transaction-value thresholds
+- Market-share thresholds
+- Turnover thresholds
+- Mandatory merger notification
+- Voluntary merger notification
+- Below-threshold review
+- Remedies and commitments
+- Competition investigations
+- Dawn raids
+- Civil enforcement
+- Criminal enforcement
+- Administrative fines
+- Private damages actions
+- Competition compliance
+- Cross-border competition coordination
+
+## 3. Registry Philosophy
+
+Competition Law Registry is built on the following principles:
+
+- Educate before converting
+- Explain before recommending
+- Authority before SEO
+- Editorial quality before commercial value
+- Institutional clarity before legal complexity
+- Neutrality before promotion
+- Consistency across jurisdiction records
+- Practical business relevance alongside legal precision
+
+Each jurisdiction object should help a reader understand how competition law works in actual commercial practice.
+
+The reader should be able to identify the applicable authority, understand the core legal framework, recognise common transaction and conduct risks, understand the procedural route and identify when jurisdiction-specific professional assistance may be required.
+
+## 4. Registry Coverage
+
+The registry covers the professional operation of competition and antitrust law across jurisdictions.
+
+Each record may include:
+
+- National competition rules
+- Regional competition rules
+- International competition-law interfaces
+- Competition authority structures
+- Judicial and appeal structures
+- Merger-control procedure
+- Antitrust and conduct enforcement
+- Compliance expectations
+- Cross-border transaction planning
+- Competition-related document requirements
+- Commercial risk areas
+- Authority contact points
+- Registry expert positions
+
+## 5. Registry Architecture
+
+Competition Law Registry operates through a three-level structure:
+
+1. Homepage
+2. Jurisdiction Index
+3. Individual Jurisdiction Record
+
+The homepage defines the registry’s purpose, coverage and editorial model.
+
+The jurisdiction index lists the jurisdictions currently represented in the registry.
+
+Each individual jurisdiction record is a separate professional object covering Competition & Antitrust Law in the selected jurisdiction.
+
+## 6. Registry Object Standard
+
+Each jurisdiction record follows a stable editorial architecture.
+
+### 6.1 Identity and Metadata
+
+Each record contains structured registry metadata, including:
+
+- Registry status
+- Registry identifier
+- Version
+- Jurisdiction
+- Language
+- Last updated date
+- Coverage
+- Record integrity status
+
+### 6.2 Executive Summary
+
+The executive summary explains:
+
+- What competition and antitrust law means in the jurisdiction
+- How the professional function normally operates
+- Which legal and institutional factors shape the jurisdiction
+- Why cross-border relevance may matter
+
+### 6.3 Object Definition
+
+The object definition identifies:
+
+- Professional domain
+- Object type
+- Classification
+- Jurisdiction
+- Functional boundaries
+
+### 6.4 Scope
+
+The scope section distinguishes core competition-law matters from related but separate legal and regulatory areas.
+
+### 6.5 Purpose
+
+The purpose section explains why the competition-law function exists and what commercial or regulatory risks it is intended to address.
+
+### 6.6 Primary Outcome
+
+The primary outcome identifies the expected result of proper competition-law assessment, compliance, notification or authority engagement.
+
+### 6.7 Request Contexts
+
+Request contexts identify common situations that activate competition-law work, including:
+
+- Acquisitions
+- Mergers
+- Joint ventures
+- Distribution redesign
+- Pricing changes
+- Competitor contact
+- Market-entry planning
+- Authority investigations
+- Market-power review
+- Compliance implementation
+
+### 6.8 Typical Users
+
+Typical users can include:
+
+- Board members
+- Executive teams
+- Founders
+- General counsel
+- In-house legal teams
+- Compliance officers
+- Transaction teams
+- Investors
+- Private equity sponsors
+- Commercial leadership
+- Foreign parent companies
+- External advisers
+
+### 6.9 Typical Scenarios
+
+Typical scenarios can include:
+
+- Merger-control review
+- Antitrust agreement review
+- Market-power assessment
+- Competitor-contact review
+- Authority investigation response
+- Dawn-raid preparation
+- Cross-border transaction planning
+- Compliance programme development
+- Digital-market conduct review
+- Distribution-system redesign
+
+### 6.10 Jurisdiction Characteristics
+
+This section explains what makes the jurisdiction distinct.
+
+Depending on the jurisdiction, relevant factors may include:
+
+- Domestic competition authority structure
+- Relationship with regional competition systems
+- Merger-control thresholds
+- Market-share thresholds
+- Turnover thresholds
+- Transaction-value thresholds
+- Call-in powers
+- Below-threshold review
+- Judicial structure
+- State or provincial enforcement
+- Criminal enforcement
+- Consumer-protection interfaces
+- Sector-regulatory interfaces
+- Local language requirements
+- Domestic market characteristics
+- Cross-border business environment
+
+### 6.11 Key Authorities
+
+Each record identifies the relevant authorities.
+
+Authority entries may include:
+
+- Official name
+- Official English name
+- Primary role
+- Responsibilities
+- Typical interaction
+- Official website
+- Cross-border relevance
+
+Relevant bodies may include:
+
+- Competition authorities
+- Consumer authorities
+- Merger-control authorities
+- Cartel authorities
+- Prosecutorial bodies
+- Market courts
+- Administrative courts
+- Appeal tribunals
+- Regional competition authorities
+- International or regional competition institutions
+
+### 6.12 Applicable Legislation
+
+Each record identifies the principal legal layers, which may include:
+
+- Competition acts
+- Antitrust acts
+- Cartel laws
+- Merger-control provisions
+- Competition-authority statutes
+- Criminal provisions
+- Consumer interfaces
+- Sector regulation
+- Regional treaty rules
+- Merger regulations
+- Implementation rules
+- Authority guidance
+- Official notices
+
+Each legal entry should identify:
+
+- Official title
+- Year
+- Purpose
+- Typical application
+- Related legislation
+- Official source
+- Current status
+
+### 6.13 Process Flow
+
+Competition-law work is an operational sequence, not a single abstract legal question.
+
+A typical process may include:
+
+1. Trigger identification
+2. Market and party mapping
+3. Legal characterisation
+4. Evidence and document review
+5. Jurisdiction analysis
+6. Notification or response planning
+7. Compliance implementation
+8. Authority engagement
+9. Monitoring
+10. Enforcement or appeal management
+
+### 6.14 Decision Tree
+
+A jurisdiction record may contain a practical decision tree that helps readers determine:
+
+- Whether the issue concerns conduct, an agreement, market power or a transaction
+- Whether local market effects are relevant
+- Whether regional or international rules may apply
+- Whether notification may be required
+- Whether pre-closing controls are necessary
+- Whether professional assistance should be obtained
+
+### 6.15 Timeline
+
+The timeline section explains the commercial lifecycle of a competition-law matter:
+
+- Commercial planning
+- Initial screening
+- Market analysis
+- Legal review
+- Notification preparation
+- Pre-closing control
+- Authority review
+- Clearance, remedies or prohibition
+- Operational rollout
+- Ongoing monitoring
+- Investigation, appeal or litigation
+
+### 6.16 Required Documents
+
+Competition-law work normally requires accurate documentation.
+
+Examples include:
+
+- Transaction structure summary
+- Ownership and control records
+- Turnover information
+- Market-share data
+- Market-definition materials
+- Commercial agreements
+- Distribution agreements
+- Supply agreements
+- Platform terms
+- Internal communications
+- Board records
+- Pricing materials
+- Customer and competitor information
+- Compliance policies
+- Training records
+- Authority correspondence
+- Previous decisions or commitments
+
+### 6.17 Cross-Border Relevance
+
+Competition law is frequently cross-border.
+
+Cross-border analysis may involve:
+
+- Regional competition rules
+- National competition rules
+- Parallel merger notifications
+- Foreign competition authorities
+- International transaction timetables
+- Foreign turnover
+- Local market effects
+- Cross-border commercial agreements
+- Multi-jurisdiction remedies
+- Parallel investigations
+- Regional court or authority coordination
+
+A transaction may require different analysis in different jurisdictions even where the same corporate parties are involved.
+
+A local filing exemption does not necessarily remove substantive competition-law risk in another market.
+
+### 6.18 Operating Constraints and Risks
+
+Common competition-law risks include:
+
+- Failure to identify a notifiable transaction
+- Premature closing or gun jumping
+- Failure to maintain appropriate separation before clearance
+- Incorrect turnover calculations
+- Incorrect market-share assumptions
+- Incomplete market definition
+- Improper information exchange
+- Inadequate document controls
+- Anti-competitive agreement clauses
+- Market-power misconduct
+- Failure to identify below-threshold review powers
+- Failure to assess regional or international jurisdiction
+- Inconsistent internal commercial rationale
+- Inadequate compliance training
+
+### 6.19 Costs and Fees
+
+Competition-law cost drivers may include:
+
+- Legal review
+- Economic analysis
+- Market research
+- Notification preparation
+- Filing fees
+- Authority correspondence
+- Data collection
+- Supplementary information requests
+- Second-stage or in-depth review
+- Remedies negotiation
+- Compliance implementation
+- Investigation response
+- Litigation
+- Appeal
+- Private damages claims
+- Multi-jurisdiction coordination
+
+### 6.20 Frequently Asked Questions
+
+Each record includes concise responses to recurring questions, such as:
+
+- Which authority is responsible?
+- Which legislation matters?
+- Is notification required?
+- Can the transaction close before clearance?
+- Do regional rules apply?
+- Can foreign companies be affected?
+- Can below-threshold deals be reviewed?
+- Is filing enough, or is ongoing compliance also required?
+
+### 6.21 Related Professional Areas
+
+Competition-law work can connect to:
+
+- Corporate law
+- Mergers and acquisitions
+- Commercial contracts
+- Consumer protection
+- Public procurement
+- State aid or subsidy control
+- Investment screening
+- Data protection
+- Digital-market regulation
+- Sector regulation
+- Dispute resolution
+- Regulatory compliance
+- Corporate governance
+- Taxation
+
+### 6.22 Practical Guidance
+
+Before taking a competition-sensitive decision, a business should identify:
+
+- The commercial objective
+- The parties involved
+- Relevant markets
+- Jurisdictional effects
+- Transaction value
+- Turnover
+- Market shares
+- Market power
+- Existing agreements
+- Internal communications
+- Notification obligations
+- Pre-closing limitations
+- Authority risk
+- Cross-border filing requirements
+- Compliance controls
+
+### 6.23 Jurisdictional Expert Position
+
+Competition Law Registry may contain an independent jurisdictional expert position for each record.
+
+This registry position is separate from the editorial content.
+
+The registry position may include:
+
+- Registry position identifier
+- Jurisdictional expert coverage
+- Registry availability
+- Verification status
+- Registry reference
+- Contact status
+
+No commercial participation influences the editorial content of the jurisdiction record.
+
+### 6.24 Machine Layer
+
+Each record may contain a machine-readable layer designed to improve information retrieval.
+
+The machine layer can include:
+
+- AI retrieval summary
+- Object DNA
+- Entity index
+- Authority index
+- Legislation index
+- Registry identifier
+- Jurisdiction
+- Professional domain
+- Language
+- Status
+
+## 7. Editorial Policy
+
+Competition Law Registry follows these editorial standards:
+
+- Neutral and factual language
+- Preference for official primary sources
+- Clear distinction between law, guidance and practice
+- No marketing claims
+- No legal advice
+- No unverified authority assertions
+- No promotional expert content inside editorial sections
+- Stable taxonomy and section structure
+- Jurisdiction-specific explanation rather than generic country-topic content
+
+## 8. Legal and Regulatory Notice
+
+Competition Law Registry provides general editorial reference information only.
+
+It does not provide legal advice, economic advice, investment advice, regulatory representation, merger filing advice or case-specific competition-law opinions.
+
+Competition law is fact-specific and can change through legislation, authority guidance, administrative practice and court decisions.
+
+Users should verify current law, thresholds, authority procedures and filing requirements directly with official sources and qualified professional advisers before taking action.
+
+## 9. Discovery
+
+- Homepage: https://competitionlawregistry.org/
+- Jurisdiction Index: https://competitionlawregistry.org/jurisdictions
+- Sitemap: https://competitionlawregistry.org/sitemap.xml
